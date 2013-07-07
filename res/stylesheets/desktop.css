@@ -1,0 +1,115 @@
+/* Generic css                                                               */
+body {
+  padding: 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+section {
+	margin-bottom: 50px;
+}
+
+.hero-unit h3
+{
+	margin-left: 15px;
+}
+
+.smaller {
+	font-size: 10px;
+}
+
+.navbar-fixed-top {
+	padding-bottom: 40px;
+}
+
+a:hover.clean-link {
+	text-decoration:none;
+}
+a:link.clean-link {
+	color:#333333;
+}
+a:visited.clean-link {
+	color:#333333;
+}
+
+img {
+	margin: 5px;
+}
+
+/*****************************************************************************/
+/* Footer css                                                                */
+footer {
+   margin-top: 20px;
+}
+
+footer .float-left {
+    float: left;
+}
+
+footer .float-right {
+    float: right;
+}
+
+ul#social li {
+    display: inline;
+    list-style: none;
+}
+
+ul#social li a {
+    color: #999;
+    text-decoration: none;
+}
+        
+a.facebook, a.twitter {
+    display: block;
+    float: left;
+    height: 24px;
+    padding-left: 17px;
+    text-indent: -9999px;
+    width: 16px;
+}
+    
+a.facebook {
+    background: url("../images/facebook.png") no-repeat;
+}
+        
+a.twitter {
+    background: url("../images/twitter.png") no-repeat;
+}
+/*****************************************************************************/
+/* Page css                                                                  */
+/*****************************************************************************/
+/* Short page css                                                            */
+@media only screen and (max-width: 1000px) {
+    /* footer                                                                */    
+    footer .float-left,
+    footer .float-right {
+        float: none;
+    }
+    
+    footer {
+        text-align: center;
+        height: auto;
+        padding: 10px 0;
+    }
+    
+    footer p {
+        margin: 0;
+    }
+    
+    ul#social {
+        padding:0;
+        margin: 0;
+    }
+    
+    a.facebook, a.twitter{
+        background: none;
+        display: inline;
+        float: none;
+        height: auto;
+        padding-left: 0;
+        text-indent: 0;
+        width: auto;
+    }
+	/*************************************************************************/
+}
+/*****************************************************************************/

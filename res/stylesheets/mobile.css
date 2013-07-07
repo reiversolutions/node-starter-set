@@ -1,0 +1,17 @@
+/* Generic mobile fixes                                                          */
+body {
+  padding: 50px 0px 50px 50px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+footer .float-right {
+    display: none;
+}
+/*****************************************************************************/
+
+/* Page css                                                                  */
+/*****************************************************************************/

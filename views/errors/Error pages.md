@@ -1,0 +1,1 @@
+# Error pagesError pages with generic pages for 404 and 500. Error handling is set up in the `config.js` configuration file.

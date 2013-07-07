@@ -1,0 +1,24 @@
+﻿<% if (browser == "ie") { %>
+	<div class="navbar navbar-inverse">
+<% } else { %>
+	<header class="navbar navbar-inverse navbar-fixed-top">
+<% } %>
+	<div class="navbar-inner">
+		<% if (browser == "ie") { %>
+			<div class="container">
+		<% } else { %>
+			<div class="container-fluid">
+		<% } %>
+			<a href="http://localhost" class="brand">Home</a>
+			<nav class="nav-collapse collapse">
+				<ul class="nav">
+					<li><!--<a href="http://localhost/about">About</a>--></li>
+				</ul>
+			</nav>
+		</div>
+	</div>
+<% if (browser == "ie") { %>
+	</div>
+<% } else { %>
+	</header>
+<% } %>
