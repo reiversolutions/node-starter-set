@@ -25,7 +25,7 @@ Pull down the repository and move to the location. Then run the following;
 Then open up a browser, preferable a good one and browse to `http://localhost/`. All 
 being well you should get the following page.
 
-![Start page](Example page.png)
+![Start page](./example.png)
 
 --------
 
