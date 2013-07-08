@@ -25,7 +25,7 @@ Pull down the repository and move to the location. Then run the following;
 Then open up a browser, preferable a good one and browse to `http://localhost/`. All 
 being well you should get the following page.
 
-![Start page](./example.png)
+![Start page][img]
 
 --------
 
@@ -36,5 +36,6 @@ you'll [Google][other] for another one.
 
 
 [jitsu]: https://www.nodejitsu.com/
+[img]: https://bitbucket.org/charltondan/node-starter-set/raw/e828c7e45f792b4e6111736c70c72a405120a4b7/example.png
 [blog]: http://blog.reiversolutions.co.uk/nodejs
 [other]: http://lmgtfy.com/?q=nodejs+express+tutorial
