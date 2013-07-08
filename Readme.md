@@ -10,7 +10,8 @@ It includes the following build-able parts
  - `mongoose`, easy to use framework for communicating with `MongoDb`
  - `Twitter Bootstrap`, css stylesheet design
  - A package setup to deploy to [Nodejitsu][jitsu]
- 
+
+
 > All parts will build up a single default localhost page. With modification 
 > can be used to create any website you wish.
 
