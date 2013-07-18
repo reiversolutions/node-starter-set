@@ -36,6 +36,6 @@ you'll [Google][other] for another one.
 
 
 [jitsu]: https://www.nodejitsu.com/
-[img]: https://bitbucket.org/charltondan/node-starter-set/raw/e828c7e45f792b4e6111736c70c72a405120a4b7/example.png
+[img]: https://raw.github.com/reiversolutions/node-starter-set/master/example.png
 [blog]: http://blog.reiversolutions.co.uk/nodejs
 [other]: http://lmgtfy.com/?q=nodejs+express+tutorial
