@@ -22,7 +22,7 @@ Pull down the repository and move to the location. Then run the following;
 
     node filter.js
 	
-Then open up a browser, preferable a good one and browse to `http://localhost/`. All 
+Then open up a browser, preferable a good one and browse to `http://localhost:3000/`. All 
 being well you should get the following page.
 
 ![Start page][img]
