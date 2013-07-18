@@ -4,4 +4,4 @@ var express = require('express'),
 
 vhost.use(express.vhost('localhost', require('./apps/site').app));
 
-vhost.listen(80);
+vhost.listen(3000);
