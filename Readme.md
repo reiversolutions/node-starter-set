@@ -27,15 +27,6 @@ being well you should get the following page.
 
 ![Start page][img]
 
---------
-
-## Some help
-
-If your still struggling you can read a [tutorial][blog] I made or if your clever 
-you'll [Google][other] for another one.
-
 
 [jitsu]: https://www.nodejitsu.com/
 [img]: https://raw.github.com/reiversolutions/node-starter-set/master/example.png
-[blog]: http://blog.reiversolutions.co.uk/nodejs
-[other]: http://lmgtfy.com/?q=nodejs+express+tutorial
